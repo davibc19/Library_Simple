@@ -1,5 +1,4 @@
-# Title
-Library in JavaWEB
+# Library in JavaWEB
 
 # Description
 This project was developed as a work to the discipline "Web Applications Development". Our task, basically, was:
